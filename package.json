@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "main",
+  "version": "1.0.0",
+  "description": "try worldpay",
+  "main": "inex.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
