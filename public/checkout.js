@@ -1,7 +1,7 @@
 (() => {
   var form = document.getElementById("card-form");
   var clear = document.getElementById("clear");
-  var id = "your-checkout-id";
+  var id = "7188380b-a4ad-495f-9966-bffc1dc54d2c";
   // Create custom style config to pass into Worldpay.checkout.init()
   var styles = {
     input: {
